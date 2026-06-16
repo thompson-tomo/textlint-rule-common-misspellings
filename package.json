@@ -40,7 +40,7 @@
     "textlint-tester": "^1.0.0"
   },
   "dependencies": {
-    "misspellings": "^1.0.1",
-    "textlint-rule-helper": "^1.1.5"
+    "misspellings": "^1.1.0",
+    "textlint-rule-helper": "^2.1.1"
   }
 }
